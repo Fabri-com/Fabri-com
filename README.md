@@ -29,12 +29,14 @@ Soy estudiante de **Ingeniería Informática** y me interesa construir solucione
 
 Actualmente estoy profundizando en:
 
-- Desarrollo de software
 - Desarrollo web con backend
 - Automatización
 - IA aplicada
+- Smart Contracts
+- Blockchain
+- Web3
 
-Me atrae especialmente trabajar en proyectos que conecten **software + impacto real**, ya sea mediante APIs, automatizaciones o soluciones basadas en **Blockchain, Web3, Smart Contracts, criptomonedas y Bitcoin**.
+Me atrae especialmente trabajar en proyectos que conecten **software + impacto real**, ya sea mediante APIs, automatizaciones o soluciones basadas en **Blockchain, Web3, Smart Contracts, criptomonedas**.
 
 ---
 
